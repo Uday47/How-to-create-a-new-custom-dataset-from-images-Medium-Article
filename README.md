@@ -8,3 +8,5 @@ Building  your own image dataset is a non-trivial task by itself. Surprisingly, 
 I searched for ways to do it and finally figured it out.  
 
 In this article, you will learn how to prepare your own dataset of raw images, which you can then use for your own image classification/computer vision projects.
+
+Link to the article: https://medium.com/@udayyhit47/how-to-create-a-new-custom-dataset-from-images-9b95977964ab

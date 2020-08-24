@@ -3,6 +3,8 @@ We all have learnt how to build machine learning models on the classics MNIST/Fa
 
 After working on public datasets for months, I wanted to create a custom dataset of my face images and use it for face identification.  Real expertise is demonstrated by using machine learning to solve your own problems.
 
-Building  your own image dataset is a non-trivial task by itself. Surprisingly, it is covered far less comprehensively in most online courses. I searched for ways to do it and I finally figured it out.  
+Building  your own image dataset is a non-trivial task by itself. Surprisingly, it is covered far less comprehensively in most online courses.
+
+I searched for ways to do it and I finally figured it out.  
 
 In this article, you will learn how to prepare your own dataset of raw images, which you can then use for your own image classification/computer vision projects.
